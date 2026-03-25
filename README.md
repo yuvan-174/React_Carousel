@@ -151,10 +151,10 @@ export default Carousel;
 ```
 
 ## OUTPUT
+<img width="1276" height="629" alt="Screenshot 2026-03-25 194139" src="https://github.com/user-attachments/assets/2cd1edde-3de9-4385-9297-dd6a8c533350" />
+<img width="1224" height="702" alt="Screenshot 2026-03-25 194144" src="https://github.com/user-attachments/assets/7928d48c-a708-4129-ba43-8ffb0fa541cb" />
+<img width="1267" height="717" alt="Screenshot 2026-03-25 194223" src="https://github.com/user-attachments/assets/5507895d-fb95-4a1a-90eb-8d371c31871a" />
 
-![Website Screenshot](1.png)
-![Website Screenshot](2.png)
-![Website Screenshot](3.png)
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
